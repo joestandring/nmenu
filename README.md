@@ -1,4 +1,5 @@
 # nmenu - ncurses menu system
+**THIS BRANCH IS NOT FOR USE, BUT DEVELOPMENT OF NEW FEATURES. DO NOT USE THIS IN YOUR PROJECTS!**
 A 'plug and play' menu system for ncurses with automatic sizing and centering. Do it all with one function!
 ![screenshot](sshot.png)
 ## Table of Contents
